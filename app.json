@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "myfitness",
+    "description": "An empty new project",
+    "slug": "myfitness",
+    "privacy": "public",
+    "sdkVersion": "19.0.0",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
